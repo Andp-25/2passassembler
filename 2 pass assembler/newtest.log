@@ -1,0 +1,2 @@
+ERROR:line 3	This mnemonic doesn't require a parameter: "start: add 1	"
+WARNING:line 3	Unused Label found: "start: add 1	"
